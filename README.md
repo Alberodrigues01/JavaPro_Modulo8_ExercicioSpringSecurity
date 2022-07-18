@@ -1,7 +1,7 @@
 # JavaPro_Modulo8_ExercicioSpringSecurity
 Exercício para conclusão do Módulo 8 da formação Java-PRO pela Mentorama
 O objetivo é a utilização do software (opensource) Keycloak  como mecanismo para estabelecimento de poderes de acesso e 
-autenticação de tais poderes quando é executado um endpoint. A verificação/validação é feita através de um token gerado gerado pelo Authentication Server Keycloak
+autenticação de tais poderes quando é executado um endpoint. A verificação/validação é feita através de um token gerado pelo Authentication Server Keycloak
 operando sobre a plataforma de serviços Docker e gerenciamento feito pelo servidor de aplicações JBOSS (Linux)
 A aplicação em si é muito simples, pois seu objetivo não é a elaboração de diversas funcionalidades, mas sim, implementar um mecanismo de segurança de amplo uso
 no mercado. A amplicação simula um cadastro reduzido de aluno e o CRUD habitual juntamente com os seus endpointd.
